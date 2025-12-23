@@ -22,7 +22,8 @@
     Dentro da VM server:
     ```bash
     cd xdp-tutorial/ping-reply
-    make
+    # Siga as instruções detalhadas em REPLICATION_GUIDE.md (Seção 3)
+    # Envolve copiar para pasta temporária e usar clang manualmente.
     ```
 
 5.  **Carregar o Programa XDP**:
